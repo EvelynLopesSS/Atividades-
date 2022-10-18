@@ -35,3 +35,4 @@ order by 'preço';
 
 select *from informações_locatário
 order by 'nome';
+*.sql linguist-detectable=true
